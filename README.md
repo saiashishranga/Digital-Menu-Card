@@ -1,5 +1,4 @@
 # Digital-Menu-Card
-# Digital-Menu-Card
 
 In this pandemic situation,we have come up with a solution to avoid social contact, that is to replace the physical presence of the server and the ‘menu’ with a digital menu card. The customer will be given a QR code at his table. After the QR Code scanning the customer gets into our website home page displaying the menu items and their respective price.
 
